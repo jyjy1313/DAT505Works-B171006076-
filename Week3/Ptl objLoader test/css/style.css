@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+#showball1{
+  width:80px;
+  height: 80px;
+  background: url("earth.jpg") no-repeat;
+}
+#showball2{
+  width:80px;
+  height: 80px;
+  background: url("moon.jpg") no-repeat;
+}
